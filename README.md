@@ -9,4 +9,4 @@ Drill Rack File (drl) support for vim
 
 ## Bug report
 
-Report a bug on [GitHub Issues](https://github.com/dreimers/vim-drill-rack.git).
+Report a bug on [GitHub Issues](https://github.com/dreimers/vim-drill-rack/issues)
